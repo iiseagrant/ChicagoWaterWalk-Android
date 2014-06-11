@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+    
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    
+    <array name="routes">
+        <item>@array/route_one</item>
+   		<item>@array/route_two</item>>
+    	<item>@array/route_three</item>
+    	<item>@array/route_four</item>
+    </array>
+    
+    <array name="route_one">
+        <item>@string/route_one</item>           <!-- Route title -->
+        <item>@raw/route_one</item>              <!-- Route image -->
+        <item>@dimen/route_one_zoom</item>       <!-- Map zoom -->
+        <item>@dimen/route_one_center_lat</item> <!-- Map latitude -->
+        <item>@dimen/route_one_center_lng</item> <!-- Route longitude -->
+        <item>@array/route_one_poi</item>        <!-- Route POIs -->
+    </array>
+    
+    <array name="route_two">
+        <item>@string/route_two</item>
+        <item>@raw/route_two</item>
+        <item>@dimen/route_two_zoom</item>
+        <item>@dimen/route_two_center_lat</item>
+        <item>@dimen/route_two_center_lng</item>
+        <item>@array/route_two_poi</item>
+    </array>
+    
+    <array name="route_three">
+        <item>@string/route_three</item>
+        <item>@raw/route_three</item>
+        <item>@dimen/route_three_zoom</item>
+        <item>@dimen/route_three_center_lat</item>
+        <item>@dimen/route_three_center_lng</item>
+        <item>@array/route_three_poi</item>
+    </array>
+    
+    <array name="route_four">
+        <item>@string/route_four</item>
+        <item>@raw/route_four</item>
+        <item>@dimen/route_four_zoom</item>
+        <item>@dimen/route_four_center_lat</item>
+        <item>@dimen/route_four_center_lng</item>
+        <item>@array/route_four_poi</item>
+    </array>
+    
+</resources>

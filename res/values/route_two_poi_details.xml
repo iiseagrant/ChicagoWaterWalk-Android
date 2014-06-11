@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+    
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    
+	<array name="route_two_poi_one_details">
+	    <item>@string/lets_get_started</item>
+        <item>@raw/michigan_ave_bridge_main</item>
+        <item>@raw/route_two_poi_one</item>  
+        <item>@string/bridges_chicago_style</item>
+        <item>@raw/michigan_ave_bridge_sub_one</item>
+        <item>@raw/route_two_poi_one_sub_one</item>
+        <item>@string/canal_connections</item>
+        <item>@raw/michigan_ave_bridge_sub_two</item>
+        <item>@raw/route_two_poi_one_sub_two</item>
+    </array>
+    
+	<array name="route_two_poi_two_details">
+	    <item>@string/did_you_know</item>
+        <item>@raw/columbus_drive_bridge_main</item>
+        <item>@raw/route_two_poi_two</item>
+        <item>@string/big_rains_are_a_big_deal</item>
+        <item>@raw/columbus_drive_bridge_sub_one</item>
+        <item>@raw/route_two_poi_two_sub_one</item>
+        <item>@string/the_deep_tunnel_solution</item>
+        <item>@raw/columbus_drive_bridge_sub_two</item>
+        <item>@raw/route_two_poi_two_sub_two</item>
+    </array>
+    
+	<array name="route_two_poi_three_details">
+	    <item>@string/first_some_background</item>
+        <item>@raw/centennial_fountain_main</item>
+        <item>@raw/route_two_poi_three</item>
+        <item>@string/one_of_the_busiest_harbors</item>
+        <item>@raw/centennial_fountain_sub_one</item>
+        <item>@raw/route_two_poi_three_sub_one</item>
+        <item>@string/one_of_the_biggest_threats</item>
+        <item>@raw/centennial_fountain_sub_two</item>
+        <item>@raw/route_two_poi_three_sub_two</item>
+    </array>
+    
+	<array name="route_two_poi_four_details">
+	    <item>@string/the_big_picture</item>
+        <item>@raw/chicago_river_mouth_main</item>
+        <item>@raw/route_two_poi_four</item>
+        <item>@string/the_river_runs_backwards</item>
+        <item>@raw/chicago_river_mouth_sub_one</item>
+        <item>@raw/route_two_poi_four_sub_one</item>
+        <item>@string/and_the_locks_are_key</item>
+        <item>@raw/chicago_river_mouth_sub_two</item>
+        <item>@raw/route_two_poi_four_sub_two</item>
+    </array>
+	
+</resources>

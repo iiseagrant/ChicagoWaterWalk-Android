@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+    
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/scroll_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false"
+            android:orientation="horizontal"
+            android:padding="10dip" >
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="@string/alt_app_name"
+                    android:textAppearance="?android:attr/textAppearanceMedium"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:gravity="left"
+                    android:text="@string/illinois_indiana_sea_grant"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1" >
+
+                <TextView
+                    android:id="@+id/version_text"
+                    android:layout_width="fill_parent"
+                    android:layout_height="fill_parent"
+                    android:gravity="right|center"
+                    android:textAppearance="?android:attr/textAppearanceSmall" />
+                
+            </LinearLayout>
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="left"
+                android:text="@string/about_text"
+                android:textAppearance="?android:attr/textAppearanceMedium" />
+            
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="7dip" >
+
+            <Button
+                android:id="@+id/who_are_we_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/who_are_we"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#20427e"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/credits_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/credits"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#20427e"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/website_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/website"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#20427e"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/email_us_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/email_us"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#20427e"
+                android:textStyle="bold" />
+
+            <Button
+                android:id="@+id/copyright_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/copyright"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#20427e"
+                android:textStyle="bold" />
+            
+            <Button
+                android:id="@+id/license_button"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:singleLine="true"
+                android:text="@string/licenses"
+                android:textAppearance="?android:attr/textAppearanceSmall"
+                android:textColor="#20427e"
+                android:textStyle="bold" />
+            
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:paddingTop="5dip"
+                android:orientation="horizontal" >
+                
+                <Button
+                    android:id="@+id/facebook_button"
+                	android:layout_width="64dip"
+                	android:layout_height="64dip"
+                	android:background="@drawable/facebook"
+                	android:contentDescription="@string/facebook" />
+                
+                <View
+                    android:layout_width="15dip"
+                	android:layout_height="64dip" />
+                
+                <Button
+                    android:id="@+id/twitter_button"
+                	android:layout_width="64dip"
+                	android:layout_height="64dip"
+                	android:background="@drawable/twitter"
+                	android:contentDescription="@string/twitter" />
+                
+            </LinearLayout>
+            
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</ScrollView>

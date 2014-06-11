@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+    
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    
+    <array name="historical_photos">
+        <item>@raw/historic_zero</item> <!-- https://uofi.box.com/s/9rsk7ke3rr5momzhhsdp -->
+        <item>@raw/historic_one</item> <!-- https://uofi.box.com/s/mp1c0mdexx1nhkugb87u -->
+        <item>@raw/historic_two</item> <!-- https://uofi.box.com/s/1yhwfxefm7skqk19hqk8 -->
+        <item>@raw/historic_three</item> <!-- https://uofi.box.com/s/4pzihsr8bkdmw7vpohbb -->
+        <item>@raw/historic_four</item> <!-- https://uofi.box.com/s/rgxxr54vphfnk4vz2unb -->
+        <item>@raw/historic_five</item> <!-- https://uofi.box.com/s/bsgu6xzw60cwl4u85qnz -->
+        <item>@raw/historic_six</item> <!-- https://uofi.box.com/s/ywthjf5jsqi1c59yz8ca -->
+        <item>@raw/historic_seven</item>
+        <item>@raw/historic_eight</item> <!-- https://uofi.box.com/s/3xtby0m9l8pyw3jdfpg9 -->
+        <item>@raw/historic_nine</item> <!-- https://uofi.box.com/s/ts54u7zhgfcqqajce02x -->
+        <item>@raw/historic_ten</item> <!-- https://uofi.box.com/s/oigidsox562npz78sjgq -->
+    </array>
+    
+</resources>

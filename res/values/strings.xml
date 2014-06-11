@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+    
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string name="app_name">Chicago Water</string>
+    <string name="alt_app_name">Chicago Water Walk</string>
+    <string name="version">Version 2.0</string>
+    <string name="menu_about">About</string>
+    <string name="menu_credits">Credits</string>
+    <string name="menu_map">Map</string>
+    <string name="menu_route_locations">Routes Locations</string>
+    <string name="menu_share">Share</string>
+
+    <string name="website_url">http://www.iiseagrant.org</string>
+    <string name="facebook_url">http://www.facebook.com/ILINseagrant</string>
+    <string name="twitter_url">http://twitter.com/ILINSeaGrant</string>
+    <string name="app_url">https://play.google.com/store/apps/details?id=org.iisgcp.waterwalk</string>
+    <string name="contact_email">CWWMobileApp@uillinois.edu</string>
+    <string name="contact_subject">Chicago Water Walk Tour Android App Feedback</string>
+ 
+    <string name="who_are_we">Who Are We?</string>
+    <string name="credits">Credits</string>
+    <string name="website">Website</string>
+    <string name="email_us">Email Us</string>
+    <string name="copyright">Copyright</string>
+    <string name="licenses">Licenses</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    
+    <string name="title_about">About</string>
+    <string name="title_licenses">Licenses</string>
+    <string name="title_routes">Routes</string>
+    <string name="title_routes_grid">Route Grid</string>
+    <string name="title_routes_map">Route Map</string>
+    <string name="title_all_stops">All Stops</string>
+    <string name="title_poi_grid">POI Grid</string>
+    <string name="title_poi_map">POI Map</string>
+    <string name="title_grid">Grid</string>
+    <string name="title_map">Map</string>
+    
+    <string name="route_one">Navy Pier</string>
+    <string name="route_two">Chicago River</string>
+    <string name="route_three">Lakefront Marinas</string>
+    <string name="route_four">Museum Campus</string>
+  
+    <string name="route_one_poi_one">At Dock Street</string>
+    <string name="route_one_poi_two">Along the Pier</string>
+    <string name="route_one_poi_three">Viewing Deck</string>
+    <string name="route_one_poi_four">Ohio Street Beach</string>
+    
+    <string name="route_two_poi_one">Michigan Ave Bridge</string>
+    <string name="route_two_poi_two">Columbus Dr Bridge</string>
+    <string name="route_two_poi_three">Centennial Fountain</string>
+    <string name="route_two_poi_four">Chicago River Mouth</string>
+    
+    <string name="route_three_poi_one">DuSable Harbor</string>
+    <string name="route_three_poi_two">Chicago Yacht Club</string>
+    <string name="route_three_poi_three">Monroe Harbor</string>
+    <string name="route_three_poi_four">Buckingham Fountain</string>
+    <string name="route_three_poi_five">Balbo Drive</string>
+    <string name="route_three_poi_six">Along Lakeshore Path</string>
+    
+    <string name="route_four_poi_one">Museum Campus</string>
+    <string name="route_four_poi_two">Shedd Aquarium</string>
+    <string name="route_four_poi_three">Adler Planetarium</string>
+    <string name="route_four_poi_four">Northerly Island</string>
+
+    <string name="lets_get_started">Let\'s get started</string>
+    <string name="why_a_sea_wall">Why a sea wall?</string>
+    <string name="habitats_lost">Habitats lost</string>
+    <string name="first_some_background">First, some background</string>
+    <string name="the_river_runs_backwards">The river runs backwards</string>
+    <string name="but_when_it_rains">But when it rains &#8230;</string>
+    <string name="standing_here">Standing here &#8230;</string>
+    <string name="drinking_water_why_worry">Drinking water-why worry?</string>
+    <string name="the_tale_of_shipwrecks">The tale of shipwrecks</string>
+    <string name="did_you_know">Did you know?</string>
+    <string name="is_it_safe_to_swim">Is it safe to swim?</string>
+    <string name="buoysswim_in_data">Buoys swim in data</string>
+    
+    <string name="bridges_chicago_style">Bridges, Chicago-style</string>
+    <string name="canal_connections">Canal connections</string>
+    <string name="big_rains_are_a_big_deal">Big rains are a big deal</string>
+    <string name="the_deep_tunnel_solution">The Deep Tunnel solution</string>
+    <string name="one_of_the_busiest_harbors">One of the busiest harbors</string>
+    <string name="one_of_the_biggest_threats">One of the biggest threats</string> 
+    <string name="the_big_picture">The big picture</string>
+    <string name="and_the_locks_are_key">And the locks are key</string>
+
+    <string name="get_aboard_clean_boating">Get aboard clean boating</string>
+    <string name="the_sea_wall">The sea wall</string>
+    <string name="habitats_lost">Habitats lost</string>
+    <string name="the_lakefront">The lakefront 2.0</string>
+    <string name="tipping_towards_trouble">Tipping towards trouble</string>
+    <string name="water_for_a_thirsty_region">Water for a thirsty region</string>
+    <string name="using_water_wisely">Using water wisely</string>
+    <string name="treemendous_solution">TREEmendous solution</string>
+    <string name="for_when_it_rains">For when it rains &#8230;</string>
+    <string name="the_abcs_of_pcbs_mercury">The ABCs of PCBs, mercury</string>
+    <string name="prescription_for_pollution">Prescription for pollution</string>
+    <string name="from_your_lawn_to_the_lake">From your lawn to the lake</string>
+  
+    <string name="the_breakwater_story">The breakwater story</string>
+    <string name="why_so_low">Why so low?</string>
+    <string name="a_rocky_home_life">A rocky home life</string>
+    <string name="its_a_fish_eat_fish_world">It\'s a fish eat fish world</string>
+    <string name="then_add_aquatic_invaders">Then add aquatic invaders</string>
+    <string name="downpours_and_droughts">Downpours and droughts &#8230;</string>
+    <string name="disrupt_the_lake">&#8230;Disrupt the lake</string>
+    <string name="buoys_have_the_deets">Buoys have the deets</string>
+    <string name="getting_back_to_nature">Getting back to nature</string>
+    <string name="the_garden_city">The Garden City</string>
+    
+    <string name="about_text">Chicago Water Walk takes you on a walking tour of the city’s beautiful downtown lake and river fronts. Along the way, you will learn just how important these resources are to the region&#8212;through fun facts, history, biology, and more.</string>
+    <string name="who_are_we_text">This application was prepared by Illinois-Indiana Sea Grant under award NA12NOS4190105 from NOAA’s Office of Ocean and Coastal Resource Management, U.S. Department of Commerce.\n\nThe statements, findings, conclusions, and recommendations are those of the author(s) and do not necessarily reflect the views of NOAA’s Office of Ocean and Coastal Resource Management or the U.S. Department of Commerce.</string>
+    <string name="alt_who_are_we_text">This application was prepared by Illinois-Indiana Sea Grant under award N A 1 2 N O S 4 1 9 0 1 0 5 from NOAA’s Office of Ocean and Coastal Resource Management, U.S. Department of Commerce.\n\nThe statements, findings, conclusions, and recommendations are those of the author(s) and do not necessarily reflect the views of NOAA’s Office of Ocean and Coastal Resource Management or the U.S. Department of Commerce.</string>
+
+    <string name="gps_error">Current location could not be determined, verify GPS is turned on and try again.</string>
+    <string name="gps_disabled">Gps Disabled</string>
+    <string name="gps_enabled">Gps Enabled</string>
+    
+    <string name="previous_route">Previous Route</string>
+    <string name="next_route">Next Route</string>
+    
+    <string name="contact_button_text">Contact Us</string>
+    <string name="visit_us_button_text">Visit Our Website</string>
+    
+    <string name="illinois_indiana_sea_grant">Illinois-Indiana Sea Grant</string>
+    <string name="university_logo">University of Illinois logo</string>
+    <string name="university_copyright">©2013 University of Illinois Board of Trustees</string>
+    
+    <string name="debug_maps_api_key_v2">AIzaSyD7fIDRZCFyo1Z1xALFFRGy3c91XMOlfEM</string>
+    <string name="release_maps_api_key_v2">AIzaSyDKyDz8tUk816h_59Car3EpnNAiA_NtDSs</string>
+    
+    <string name="close">Close</string>
+    
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    
+    <string name="share_text">Share via</string>
+    
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    
+    <string name="welcome">Welcome</string>
+    <string name="help_text">This application includes a slide out drawer to provide efficent navigation. The drawer can be accessed from any screen by swiping from the left edge of the screen or touching the application icon in the upper left corner of the screen.</string>
+    
+</resources>

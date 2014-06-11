@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2014 The Illinois-Indiana Sea Grant
+    
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+  
+          http://www.apache.org/licenses/LICENSE-2.0
+  
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+    
+	<array name="route_three_poi_one_details">
+	    <item>@string/lets_get_started</item>
+        <item>@raw/dusable_harbor_main</item>
+        <item>@raw/route_three_poi_one</item>
+        <item>@string/get_aboard_clean_boating</item>
+        <item>@raw/dusable_harbor_sub_one</item>
+        <item>@raw/route_three_poi_one_sub_one</item>
+    </array>
+    
+	<array name="route_three_poi_two_details">
+	    <item>@string/did_you_know</item>
+        <item>@raw/chicago_yacht_club_main</item>
+        <item>@raw/route_three_poi_two</item>
+        <item>@string/the_sea_wall</item>
+        <item>@raw/chicago_yacht_club_sub_one</item>
+        <item>@raw/route_three_poi_two_sub_one</item>
+        <item>@string/habitats_lost</item>
+        <item>@raw/chicago_yacht_club_sub_two</item>
+        <item>@raw/route_three_poi_two_sub_two</item>
+    </array>
+    
+	<array name="route_three_poi_three_details">
+	    <item>@string/first_some_background</item>
+        <item>@raw/monroe_harbor_main</item>
+        <item>@raw/route_three_poi_three</item>
+        <item>@string/the_lakefront</item>
+        <item>@raw/monroe_harbor_sub_one</item>
+        <item>@raw/route_three_poi_three_sub_one</item>
+        <item>@string/tipping_towards_trouble</item>
+        <item>@raw/monroe_harbor_sub_two</item>
+        <item>@raw/route_three_poi_three_sub_two</item>
+    </array>
+    
+	<array name="route_three_poi_four_details">
+	    <item>@string/did_you_know</item>
+        <item>@raw/buckingham_fountain_main</item>
+        <item>@raw/route_three_poi_four</item>
+        <item>@string/water_for_a_thirsty_region</item>
+        <item>@raw/buckingham_fountain_sub_one</item>
+        <item>@raw/route_three_poi_four_sub_one</item>
+        <item>@string/using_water_wisely</item>
+        <item>@raw/buckingham_fountain_sub_two</item>
+        <item>@raw/route_three_poi_four_sub_two</item>
+    </array>
+
+	<array name="route_three_poi_five_details">
+	    <item>@string/standing_here</item>
+        <item>@raw/balbo_drive_main</item>
+        <item>@raw/route_three_poi_five</item>
+        <item>@string/treemendous_solution</item>
+        <item>@raw/balbo_drive_sub_one</item>
+        <item>@raw/route_three_poi_five_sub_one</item>
+        <item>@string/for_when_it_rains</item>
+        <item>@raw/balbo_drive_sub_two</item>
+        <item>@raw/route_three_poi_five_sub_two</item>
+    </array>
+
+	<array name="route_three_poi_six_details">
+	    <item>@string/the_big_picture</item>
+        <item>@raw/along_the_lakeshore_path_main</item>
+        <item>@raw/route_three_poi_six</item>
+        <item>@string/the_abcs_of_pcbs_mercury</item>
+        <item>@raw/along_the_lakeshore_path_sub_one</item>
+        <item>@raw/route_three_poi_six_sub_one</item>
+        <item>@string/prescription_for_pollution</item>
+        <item>@raw/along_the_lakeshore_path_sub_two</item>
+        <item>@raw/route_three_poi_six_sub_two</item>
+        <item>@string/from_your_lawn_to_the_lake</item>
+        <item>@raw/along_the_lakeshore_path_sub_three</item>
+        <item>@raw/route_three_poi_six_sub_three</item>
+    </array>
+		
+</resources>
